@@ -15,6 +15,14 @@ sol = Solution()
 
 print(sol.findDisappearedNumbers(nums))
 
+# def missingNumber(self, nums):
+#         n = len(nums)
+
+#         expected = n * (n + 1) // 2
+#         actual = sum(nums)
+
+#         return expected - actual
+
 
 # return nums
 # class Solution(object):
